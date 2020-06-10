@@ -84,6 +84,7 @@ header img {
     background-color: blueviolet;
     justify-content: space-around;
     align-items: center;
+    align-content: space-evenly;
     padding: 2% 6%;
     
     
@@ -94,6 +95,7 @@ header img {
     padding: 2%;
     margin: 2% 1%;
     flex-grow: inherit;
+    
 }
 
 content {
